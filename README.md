@@ -1,16 +1,18 @@
-## Hi there 👋
+# 嗨,我是蔡忠穎
+我是中原大學的學生,目前正在學習計算機概論與程式設計。
 
-<!--
-**Yowsen/Yowsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 關於我
+－系級:智運一甲
 
-Here are some ideas to get you started:
+－正在學習:Python,GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+－感興趣的主題:程式設計
+
+－這學期的目標:超過可冠
+
+
+## 我的作品
+－目前正在學習中，之後會把課堂作品放在GitHub
+
+## 聯絡方式
+－可以透過GitHub與我交流!
